@@ -18,8 +18,6 @@ DBMP_webscrape.ipynb - webscraping code by the affiliation of Division of Biomed
 
 DIDSR_Web_Scrape.ipynb  webscraping code by the affiliation of Division of Imaging, Diagnostics, and Software Reliability
 
-FDA updated publications.ipynb - Capstone Project draft code. This has some code from the final, but is not a complete final project file.
-
 OSEL_webscraping.ipynb - Web scraped data under the affiliation of OSEL
 
 Original_inputs_refined_visual.ipynb - visualizations from the data provided origionally from the FDA
